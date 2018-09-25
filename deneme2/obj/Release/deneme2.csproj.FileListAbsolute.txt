@@ -1,0 +1,9 @@
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\bin\Release\deneme2.exe.config
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\bin\Release\deneme2.exe
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\bin\Release\deneme2.pdb
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\obj\Release\deneme2.csprojAssemblyReference.cache
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\obj\Release\deneme2.Properties.Resources.resources
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\obj\Release\deneme2.csproj.GenerateResource.cache
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\obj\Release\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\obj\Release\deneme2.exe
+C:\Users\Yusuf\Google Drive\Proje\Keylogger 2.0\deneme2\obj\Release\deneme2.pdb
